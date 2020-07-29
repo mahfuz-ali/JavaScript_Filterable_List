@@ -1,2 +1,2 @@
-# JavaScript_Filterable_List
+# JavaScript Filterable List
 Filterable List With Vanilla JavaScript
